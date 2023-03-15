@@ -13,6 +13,7 @@ namespace Projekt_vj1
             Console.WriteLine("Novo2");
             //heeeeeeeeeeej marija
             //hola
+            //poopravljan gresku
         }
     }
 }
