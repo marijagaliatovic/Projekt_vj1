@@ -8,9 +8,9 @@ namespace Projekt_vj1
 {
     class NewClass
     {
-        static void Novametoda(string[] args)
+        int Novametoda(string[] args)
         {
-            
+            return 1;
         }
     }
 }
